@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.demoniacraft.dynamite_music_disc.desc"
+  },
+  "length_in_seconds": 117.516208,
+  "sound_event": "demoniacraft:dynamite"
+}

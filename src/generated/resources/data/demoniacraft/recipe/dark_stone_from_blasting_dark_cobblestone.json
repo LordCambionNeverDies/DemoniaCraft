@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 400,
+  "experience": 0.15,
+  "group": "darkstone",
+  "ingredient": "demoniacraft:dark_cobblestone",
+  "result": {
+    "id": "demoniacraft:dark_stone"
+  }
+}

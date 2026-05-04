@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "demoniacraft:block/walnut_leaves"
+  }
+}

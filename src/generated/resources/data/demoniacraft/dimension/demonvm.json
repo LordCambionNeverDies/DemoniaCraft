@@ -1,0 +1,60 @@
+{
+  "type": "demoniacraft:demonvm_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "demoniacraft:dark_biome",
+          "parameters": {
+            "continentalness": 0.1,
+            "depth": 0.0,
+            "erosion": 0.2,
+            "humidity": 0.4,
+            "offset": 0.0,
+            "temperature": 0.3,
+            "weirdness": 0.3
+          }
+        },
+        {
+          "biome": "demoniacraft:dark_biome",
+          "parameters": {
+            "continentalness": 0.2,
+            "depth": 0.0,
+            "erosion": 0.0,
+            "humidity": 0.4,
+            "offset": 0.0,
+            "temperature": 0.3,
+            "weirdness": 0.0
+          }
+        },
+        {
+          "biome": "demoniacraft:dark_ocean",
+          "parameters": {
+            "continentalness": -0.7,
+            "depth": 0.0,
+            "erosion": 0.0,
+            "humidity": 0.5,
+            "offset": 0.0,
+            "temperature": 0.2,
+            "weirdness": 0.0
+          }
+        },
+        {
+          "biome": "demoniacraft:dark_ocean",
+          "parameters": {
+            "continentalness": -0.3,
+            "depth": 0.0,
+            "erosion": 0.0,
+            "humidity": 0.5,
+            "offset": 0.0,
+            "temperature": 0.25,
+            "weirdness": 0.0
+          }
+        }
+      ]
+    },
+    "settings": "minecraft:overworld"
+  }
+}

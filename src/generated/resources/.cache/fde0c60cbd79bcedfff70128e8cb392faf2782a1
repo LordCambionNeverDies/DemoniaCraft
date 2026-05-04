@@ -1,0 +1,13 @@
+// 1.21.8	2025-11-04T09:24:38.1268945	Tags for minecraft:block mod id demoniacraft
+d2a5803d8795e245145e45be0ab236c78d1ff5dc data/demoniacraft/tags/block/incorrect_for_arkadium_tool.json
+b96aedb72408683f009875ee724477a843095987 data/demoniacraft/tags/block/needs_arkadium_tool.json
+b159c27b24cc3f292e54e81a3575122b9725c0e4 data/demoniacraft/tags/block/not_sticky.json
+b55a6ba2a0f6ae869f2149abd9b4633599f5ee73 data/minecraft/tags/block/fences.json
+b7a88f0ab2fb337857b26f291341ebf15c30b074 data/minecraft/tags/block/fence_gates.json
+4ca2c03fd260e6f5cfa184004052c4998f1ee8c1 data/minecraft/tags/block/logs_that_burn.json
+975cb0849687d9f9dda0895cd2a76f8752816a07 data/minecraft/tags/block/mineable/pickaxe.json
+a988459eb98ca2f07eb2593919ec2ca09a94beff data/minecraft/tags/block/needs_diamond_tool.json
+2f33099663d2f28e3e39f18b955a74d53d4cf303 data/minecraft/tags/block/needs_iron_tool.json
+4912ac8099965b1b863c9af38be1e0a31bcb1c96 data/minecraft/tags/block/walls.json
+6a21899ff281b08f780210b49f4bda380a1bbbaf data/minecraft/tags/block/wooden_doors.json
+84bccea7c9293f3baed2304c8f959e71be61e7a4 data/minecraft/tags/block/wooden_trapdoors.json

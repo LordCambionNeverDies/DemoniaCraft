@@ -1,0 +1,48 @@
+{
+  "chisel_use": {
+    "subtitle": "sounds.demoniacraft.chisel_use",
+    "sounds": [
+      "demoniacraft:chisel_use"
+
+    ]
+  },
+  "poop": {
+    "subtitle": "sounds.demoniacraft.poop",
+    "sounds": [
+      "demoniacraft:poop"
+    ]
+  },
+
+  "crysis": {
+    "sounds": [
+      {
+        "name": "demoniacraft:music/crysis",
+        "stream": true
+      }
+    ]
+  },
+  "dynamite": {
+    "sounds": [
+      {
+        "name": "demoniacraft:music/dynamite",
+        "stream": true
+      }
+    ]
+  },
+  "panicdox": {
+    "sounds": [
+      {
+        "name": "demoniacraft:music/panicdox",
+        "stream": true
+      }
+    ]
+  },
+  "diamonds": {
+    "sounds": [
+      {
+        "name": "demoniacraft:music/diamonds",
+        "stream": true
+      }
+    ]
+  }
+}

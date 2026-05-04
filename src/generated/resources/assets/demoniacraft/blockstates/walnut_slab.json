@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "demoniacraft:block/walnut_slab"
+    },
+    "type=double": {
+      "model": "demoniacraft:block/walnut_planks"
+    },
+    "type=top": {
+      "model": "demoniacraft:block/walnut_slab_top"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "minecraft:obsidian"
+  ],
+  "result": {
+    "count": 1,
+    "id": "demoniacraft:obsidian_button"
+  }
+}

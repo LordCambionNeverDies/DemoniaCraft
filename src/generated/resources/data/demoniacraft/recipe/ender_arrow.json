@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": "minecraft:arrow",
+    "E": "minecraft:ender_pearl"
+  },
+  "pattern": [
+    "E",
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "demoniacraft:ender_arrow"
+  }
+}

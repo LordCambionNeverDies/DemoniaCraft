@@ -1,0 +1,33 @@
+{
+  "anvil_cost": 3,
+  "description": {
+    "translate": "enchantment.demoniacraft.lightning_striker"
+  },
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "affected": "victim",
+        "effect": {
+          "type": "demoniacraft:lightning_striker"
+        },
+        "enchanted": "attacker"
+      }
+    ]
+  },
+  "exclusive_set": "#minecraft:exclusive_set/damage",
+  "max_cost": {
+    "base": 55,
+    "per_level_above_first": 8
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 25,
+    "per_level_above_first": 8
+  },
+  "primary_items": "#demoniacraft:enchantable_hammer",
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#demoniacraft:enchantable_hammer",
+  "weight": 3
+}

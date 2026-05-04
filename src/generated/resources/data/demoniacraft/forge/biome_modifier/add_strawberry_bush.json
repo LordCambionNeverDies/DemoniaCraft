@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:forest",
+    "minecraft:flower_forest"
+  ],
+  "features": "demoniacraft:strawberry_bush_placed",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "demoniacraft:block/walnut_chair"
+    },
+    "facing=south": {
+      "model": "demoniacraft:block/walnut_chair",
+      "y":180
+    },
+    "facing=east": {
+      "model": "demoniacraft:block/walnut_chair",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "demoniacraft:block/walnut_chair",
+      "y": 270
+    }
+  }
+
+}

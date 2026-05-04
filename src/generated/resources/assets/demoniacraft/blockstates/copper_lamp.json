@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "demoniacraft:block/copper_lamp"
+    },
+    "lit=true": {
+      "model": "demoniacraft:block/copper_lamp_on"
+    }
+  }
+}

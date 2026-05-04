@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "demoniacraft:arkadium_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "demoniacraft:arkadium_ingot"
+  }
+}

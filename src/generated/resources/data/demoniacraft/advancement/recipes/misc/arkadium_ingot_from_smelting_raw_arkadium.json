@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_arkadium": {
+      "conditions": {
+        "items": [
+          {
+            "items": "demoniacraft:raw_arkadium"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "demoniacraft:arkadium_ingot_from_smelting_raw_arkadium"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_raw_arkadium"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "demoniacraft:arkadium_ingot_from_smelting_raw_arkadium"
+    ]
+  }
+}

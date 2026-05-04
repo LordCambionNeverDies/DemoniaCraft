@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_arkadium_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "demoniacraft:arkadium_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "demoniacraft:arkadium_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_arkadium_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "demoniacraft:arkadium_block"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "demoniacraft:block/obsidian_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/obsidian"
+    },
+    "type=top": {
+      "model": "demoniacraft:block/obsidian_slab_top"
+    }
+  }
+}

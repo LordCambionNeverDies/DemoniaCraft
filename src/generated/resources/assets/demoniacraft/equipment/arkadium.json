@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "demoniacraft:arkadium"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "demoniacraft:arkadium"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "demoniacraft:arkadium"
+      }
+    ]
+  }
+}

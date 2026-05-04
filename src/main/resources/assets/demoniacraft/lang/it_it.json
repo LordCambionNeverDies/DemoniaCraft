@@ -1,0 +1,156 @@
+{
+  "creativetab.demoniacraft.arkadium_items": "Oggetti di arkadium",
+
+  "item.demoniacraft.arkadium_ingot": "Lingotto di arkadium",
+  "item.demoniacraft.raw_arkadium": "Arkadium grezzo",
+
+  "creativetab.demoniacraft.miscellaneous": "Ingredienti",
+
+  "item.demoniacraft.glue_bottle": "Bottiglia di colla",
+  "item.demoniacraft.pyrestone": "Pyrestone",
+  "item.demoniacraft.hedgehog_spawn_egg": "Uovo di riccio",
+  "item.demoniacraft.bonereaper_spawn_egg": "Uovo di Mietitore d'ossa",
+  "item.demoniacraft.undead_staff": "Staffa dei non morti",
+  "item.demoniacraft.shockwave_staff": "Staffa onda d'urto",
+
+  "creativetab.demoniacraft.tools": "Oggetti",
+
+  "item.demoniacraft.chisel": "Cesello",
+  "item.demoniacraft.arkadium_axe": "Ascia di arkadium",
+  "item.demoniacraft.arkadium_hoe": "Zappa di arkadium",
+  "item.demoniacraft.arkadium_pickaxe": "Piccone di arkadium",
+  "item.demoniacraft.arkadium_shovel": "Pala di arkadium",
+
+  "item.demoniacraft.arkadium_hammer": "Martello di arkadium",
+  "item.demoniacraft.golden_hammer": "Martello d'oro",
+  "item.demoniacraft.iron_hammer": "Martello di ferro",
+  "item.demoniacraft.diamond_hammer": "Martello di diamante",
+  "item.demoniacraft.netherite_hammer": "Martello di netherite",
+
+  "creativetab.demoniacraft.combat": "Combattimento",
+
+  "item.demoniacraft.arkadium_sword": "Spada di arkadium",
+  "item.demoniacraft.demon_scythe": "Falce demoniaca",
+
+  "item.demoniacraft.ender_bow": "Arco dell'End",
+
+  "item.demoniacraft.ender_arrow": "Freccia dell'End",
+
+  "item.demoniacraft.arkadium_helmet": "Casco di arkadium",
+  "item.demoniacraft.arkadium_chestplate": "Corazza di arkadium",
+  "item.demoniacraft.arkadium_leggings": "Gambali di arkadium",
+  "item.demoniacraft.arkadium_boots": "Stivali di arkadium",
+  "item.demoniacraft.arkadium_horse_armor": "Bardatura di arkadium",
+
+  "item.demoniacraft.ender_helmet": "Casco dell'Enderman",
+  "item.demoniacraft.ender_chestplate": "Corazza del'Enderman",
+  "item.demoniacraft.ender_leggings": "Gambali dell'Enderman",
+  "item.demoniacraft.ender_boots": "Stivali dell'Enderman",
+
+  "creativetab.demoniacraft.food": "Cibo e bevande",
+
+  "item.demoniacraft.poop": "Cacca",
+  "block.demoniacraft.tomato_crop": "Pianta di pomodori",
+  "item.demoniacraft.tomato_seeds": "Semi di pomodoro",
+  "item.demoniacraft.tomato": "Pomodoro",
+  "block.demoniacraft.strawberry_bush": "Cespuglio di fragole",
+  "item.demoniacraft.strawberry": "Fragola",
+
+  "creativetab.demoniacraft.blocks": "Blocchi",
+
+  "item.demoniacraft.arkadium_block": "Blocco di arkadium",
+  "item.demoniacraft.arkadium_ore": "Minerale di arkadium",
+  "item.demoniacraft.arkadium_end_ore": "Minerale di arkadium in pietra dell'End",
+  "item.demoniacraft.arkadium_nether_ore": "Minerale di arkadium in netherrack",
+  "item.demoniacraft.arkadium_deepslate_ore": "Minerale di arkadium in ardesia profonda",
+  "item.demoniacraft.pyrestone_ore": "Minerale di Pyrestone",
+  "item.demoniacraft.glue_block": "Bloco di colla",
+  "item.demoniacraft.pedestal": "Piedistallo di pietra",
+  "item.demoniacraft.dark_stone": "Pietra oscura",
+  "item.demoniacraft.dark_cobblestone": "Pietrisco oscuro",
+
+  "item.demoniacraft.obsidian_stairs": "Scale di ossidiana",
+  "item.demoniacraft.obsidian_slab": "Lastra di ossidiana",
+  "item.demoniacraft.obsidian_wall": "Muretto di ossidiana",
+  "item.demoniacraft.obsidian_pressure_plate": "Pedana a pressione di ossidiana",
+  "item.demoniacraft.obsidian_button": "Bottone di ossidiana",
+
+  "item.demoniacraft.walnut_log": "Walnut Log",
+  "item.demoniacraft.stripped_walnut_log": "Stripped Walnut Log",
+  "item.demoniacraft.walnut_wood": "Walnut Wood",
+  "item.demoniacraft.stripped_walnut_wood": "Stripped Walnut Wood",
+  "item.demoniacraft.walnut_leaves": "Walnut Leaves",
+  "item.demoniacraft.walnut_planks": "Walnut Planks",
+  "item.demoniacraft.walnut_sapling": "Walnut Sapling",
+  "item.demoniacraft.walnut_slab": "Walnut Slab",
+  "item.demoniacraft.walnut_stairs": "Walnut Stairs",
+  "item.demoniacraft.walnut_fence": "Walnut Fence",
+  "item.demoniacraft.walnut_fence_gate": "Walnut Fence Gate",
+  "item.demoniacraft.walnut_pressure_plate": "Walnut Pressure Plate",
+  "item.demoniacraft.walnut_button": "Walnut Button",
+  "item.demoniacraft.walnut_door": "Walnut Door",
+  "item.demoniacraft.walnut_trapdoor": "Walnut Trapdoor",
+
+  "item.demoniacraft.acacia_chair": "Acacia Chair",
+  "item.demoniacraft.bamboo_chair": "Bamboo Chair",
+  "item.demoniacraft.birch_chair": "Birch Chair",
+  "item.demoniacraft.cherry_chair": "Cherry Chair",
+  "item.demoniacraft.crimson_chair": "Crimson Chair",
+  "item.demoniacraft.dark_oak_chair": "Dark Oak Chair",
+  "item.demoniacraft.jungle_chair": "Jungle Chair",
+  "item.demoniacraft.mangrove_chair": "Mangrove Chair",
+  "item.demoniacraft.oak_chair": "Oak Chair",
+  "item.demoniacraft.pale_oak_chair": "Pale Oak Chair",
+  "item.demoniacraft.spruce_chair": "Spruce Chair",
+  "item.demoniacraft.walnut_chair": "Walnut Chair",
+  "item.demoniacraft.warped_chair": "Warped Chair",
+
+  "item.demoniacraft.copper_lamp": "Copper Lamp",
+
+  "tooltip.demoniacraft.shift_down": "Press §eShift§r for more Information!",
+
+  "tooltip.demoniacraft.glue_block": "This block is §2STICKY§r",
+  "tooltip.demoniacraft.chisel": "This Item changes certain Blocks into their Chiseled version.",
+  "tooltip.demoniacraft.poop": "Mmh.. §5Yummy§r!",
+
+  "item.demoniacraft.crysis_music_disc": "Music Disc",
+  "item.demoniacraft.crysis_music_disc.desc": "I.C.U. - Crysis (CC0)",
+
+  "item.demoniacraft.dynamite_music_disc": "Music Disc",
+  "item.demoniacraft.dynamite_music_disc.desc": "Mike Ward - Dynamite (CC0)",
+
+  "item.demoniacraft.panicdox_music_disc": "Music Disc",
+  "item.demoniacraft.panicdox_music_disc.desc": "PANiCDOX - 5 (CC0)",
+
+  "item.demoniacraft.diamonds_music_disc": "Music Disc ",
+  "item.demoniacraft.diamonds_music_disc.desc": "Diamonds -Lord Cambion",
+
+  "sounds.demoniacraft.poop": "\uD83D\uDCA9",
+  "sounds.demoniacraft.chisel_use": "Carving stone",
+
+  "effect.demoniacraft.bounce": "Bouncing",
+  "item.minecraft.potion.effect.demoniacraft_bouncing_potion": "Potion of Bouncing",
+  "item.minecraft.splash_potion.effect.demoniacraft_bouncing_potion": "Splash Potion of Bouncing",
+  "item.minecraft.lingering_potion.effect.demoniacraft_bouncing_potion": "Lingering Potion of Bouncing",
+  "item.minecraft.tipped_arrow.effect.demoniacraft_bouncing_potion": "Arrow of Bouncing",
+
+  "effect.demoniacraft.climb": "Climbing",
+  "item.minecraft.potion.effect.demoniacraft_climbing_potion": "Potion of Climbing",
+  "item.minecraft.splash_potion.effect.demoniacraft_climbing_potion": "Splash Potion of Climbing",
+  "item.minecraft.lingering_potion.effect.demoniacraft_climbing_potion": "Lingering Potion of Climbing",
+  "item.minecraft.tipped_arrow.effect.demoniacraft_climbing_potion": "Arrow of Climbing",
+
+  "painting.demoniacraft.creation.title": "The Creation",
+  "painting.demoniacraft.creation.author": "Lord Cambion",
+  "painting.demoniacraft.adam.title": "The Adam",
+  "painting.demoniacraft.adam.author": "Lord Cambion",
+  "painting.demoniacraft.eden.title": "Eden",
+  "painting.demoniacraft.eden.author": "Lord Cambion",
+  "painting.demoniacraft.sphinx.title": "Sphinx",
+  "painting.demoniacraft.sphinx.author": "Lord Cambion",
+  "painting.demoniacraft.raid.title": "Raid",
+  "painting.demoniacraft.raid.author": "Lord Cambion",
+
+  "enchantment.demoniacraft.lightning_striker": "Lightning Striker",
+  "enchantment.demoniacraft.life_steal": "Life Steal"
+}

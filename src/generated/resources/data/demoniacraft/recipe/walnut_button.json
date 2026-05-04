@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "demoniacraft:walnut_planks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "demoniacraft:walnut_button"
+  }
+}

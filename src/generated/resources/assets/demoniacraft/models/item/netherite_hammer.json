@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "demoniacraft:item/netherite_hammer"
+  }
+}

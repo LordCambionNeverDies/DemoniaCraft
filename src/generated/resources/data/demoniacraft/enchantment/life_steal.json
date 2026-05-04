@@ -1,0 +1,33 @@
+{
+  "anvil_cost": 5,
+  "description": {
+    "translate": "enchantment.demoniacraft.life_steal"
+  },
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "affected": "victim",
+        "effect": {
+          "type": "demoniacraft:life_steal"
+        },
+        "enchanted": "attacker"
+      }
+    ]
+  },
+  "exclusive_set": "#minecraft:exclusive_set/damage",
+  "max_cost": {
+    "base": 40,
+    "per_level_above_first": 8
+  },
+  "max_level": 5,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 8
+  },
+  "primary_items": "#demoniacraft:enchantable_scythe",
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#demoniacraft:enchantable_scythe",
+  "weight": 3
+}

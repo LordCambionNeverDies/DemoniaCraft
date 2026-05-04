@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "demoniacraft:block/walnut_planks"
+  }
+}

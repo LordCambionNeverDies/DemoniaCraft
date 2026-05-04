@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "demoniacraft:dark_biome",
+    "demoniacraft:dark_ocean"
+  ],
+  "features": "demoniacraft:darkstone_iron_ore_placed",
+  "step": "underground_ores"
+}

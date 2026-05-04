@@ -1,0 +1,14 @@
+
+{
+  "asset_id": "demoniacraft:adam",
+  "author": {
+    "color": "gray",
+    "translate": "painting.demoniacraft.adam.author"
+  },
+  "height": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.demoniacraft.adam.title"
+  },
+  "width": 2
+}

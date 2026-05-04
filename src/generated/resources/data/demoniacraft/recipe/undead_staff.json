@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": "minecraft:skeleton_skull",
+    "I": "minecraft:iron_bars"
+  },
+  "pattern": [
+    "  H",
+    " I ",
+    "I  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "demoniacraft:undead_staff"
+  }
+}

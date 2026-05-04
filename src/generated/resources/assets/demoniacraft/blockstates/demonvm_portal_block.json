@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "demoniacraft:block/demonvm_portal_block_ns"
+    },
+    "axis=z": {
+      "model": "demoniacraft:block/demonvm_portal_block_ew"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "demoniacraft:add_item",
+  "conditions": [
+    {
+      "block": "minecraft:tall_grass",
+      "condition": "minecraft:block_state_property"
+    },
+    {
+      "chance": 0.05,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "demoniacraft:tomato_seeds"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "demoniacraft:block/walnut_log",
+    "side": "demoniacraft:block/walnut_log"
+  }
+}

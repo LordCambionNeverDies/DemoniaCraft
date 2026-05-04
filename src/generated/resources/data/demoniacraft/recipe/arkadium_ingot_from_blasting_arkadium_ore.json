@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 0.25,
+  "group": "arkadium",
+  "ingredient": "demoniacraft:arkadium_ore",
+  "result": {
+    "id": "demoniacraft:arkadium_ingot"
+  }
+}

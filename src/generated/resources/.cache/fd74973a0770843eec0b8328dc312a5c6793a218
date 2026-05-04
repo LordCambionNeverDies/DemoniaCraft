@@ -1,0 +1,6 @@
+// 1.21.8	2025-11-04T09:24:38.1082751	Global Loot Modifiers : demoniacraft
+66dc8f97584e718324f353245e774fbed8d5f54f data/demoniacraft/loot_modifiers/chisel_from_jungle_temple.json
+434e5846c4e9b7a2fa15519fd0cc5e397f795424 data/demoniacraft/loot_modifiers/tomato_seeds_from_savana_grass.json
+d0fd15e87eb7fcc80cdb597850b2c03f0085659a data/demoniacraft/loot_modifiers/tomato_seeds_from_short_grass.json
+ac3f0685262fd79c69e5b3b5b7bbf0d5c119a5b0 data/demoniacraft/loot_modifiers/tomato_seeds_from_tall_grass.json
+0f99123abbcca20a07298926c2eb3945645cfe87 data/forge/loot_modifiers/global_loot_modifiers.json

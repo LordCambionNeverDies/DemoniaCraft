@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": "minecraft:cherry_fence",
+    "S": "minecraft:cherry_slab"
+  },
+  "pattern": [
+    "S  ",
+    "SSS",
+    "F F"
+  ],
+  "result": {
+    "count": 1,
+    "id": "demoniacraft:cherry_chair"
+  }
+}

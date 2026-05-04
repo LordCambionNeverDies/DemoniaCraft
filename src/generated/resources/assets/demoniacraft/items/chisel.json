@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "demoniacraft:item/chisel"
+        },
+        "threshold": 0.0
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "demoniacraft:item/chisel_damaged"
+        },
+        "threshold": 0.5
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "demoniacraft:item/chisel"
+    },
+    "property": "minecraft:damage"
+  }
+}

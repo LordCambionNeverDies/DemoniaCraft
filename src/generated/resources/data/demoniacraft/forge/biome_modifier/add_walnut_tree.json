@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:forest",
+    "minecraft:savanna"
+  ],
+  "features": "demoniacraft:walnut_tree_placed",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,27 @@
+// 1.21.8	2025-11-04T09:24:38.1218152	Tags for minecraft:item mod id vanilla
+a8e83562f4764e652583c311c047654a980a1640 data/demoniacraft/tags/item/enchantable_hammer.json
+2e0774dac80e45e8712202b1b09402dc14f18850 data/demoniacraft/tags/item/enchantable_scythe.json
+4bfefde16b905c1dad16b9d98c434b5aa41493bd data/minecraft/tags/item/axes.json
+ddf1a453b2fc935883e63dae79f1b5b1a9acd86f data/minecraft/tags/item/chest_armor.json
+ad57aa66e000a243e17d25eb629bef78fb303447 data/minecraft/tags/item/creeper_drop_music_discs.json
+9987d7dcc6f48ef83e7d7c6a64449eb7af1e82b2 data/minecraft/tags/item/enchantable/armor.json
+ddf1a453b2fc935883e63dae79f1b5b1a9acd86f data/minecraft/tags/item/enchantable/chest_armor.json
+b8981cc74abc5575a2916fcc6fa0886c7281a592 data/minecraft/tags/item/enchantable/durability.json
+2c465d8512aaf3ea0be11fc413700a9f769a9d60 data/minecraft/tags/item/enchantable/foot_armor.json
+4dbfdff66cb1993b77c24397a16415341f91fc24 data/minecraft/tags/item/enchantable/head_armor.json
+4fef0de546a953a0e0018afc0712c4054f204387 data/minecraft/tags/item/enchantable/leg_armor.json
+3787a3f57adfccb8d4193f547cf394b81badc836 data/minecraft/tags/item/enchantable/mining.json
+6640856ac9fdd043554d49ac5821f256dfc0a577 data/minecraft/tags/item/enchantable/vanishing.json
+fa41cad1f6d3530c708eceb5d14a62201abf7dde data/minecraft/tags/item/enchantable/weapon.json
+4145d349fe830556358831b4e6e874fa1dbb7aaa data/minecraft/tags/item/foot_armor.json
+4dbfdff66cb1993b77c24397a16415341f91fc24 data/minecraft/tags/item/head_armor.json
+a7eaee5fd79adc232a89691bba4bce78d8f2c9c0 data/minecraft/tags/item/hoes.json
+4fef0de546a953a0e0018afc0712c4054f204387 data/minecraft/tags/item/leg_armor.json
+4ca2c03fd260e6f5cfa184004052c4998f1ee8c1 data/minecraft/tags/item/logs_that_burn.json
+2b4c20a83278f3ab8ef0105363406cd69a25d9bb data/minecraft/tags/item/pickaxes.json
+b1fce7082ddbd5604d0036513a12eea4d9495d12 data/minecraft/tags/item/planks.json
+2b6d433dc6720eb420e60ea2f676e16547a15f4c data/minecraft/tags/item/shovels.json
+bdcc386b01c5a5c35e978f4908ad7aaaa7b8d8f3 data/minecraft/tags/item/swords.json
+9987d7dcc6f48ef83e7d7c6a64449eb7af1e82b2 data/minecraft/tags/item/trimmable_armor.json
+52dcbb550ba79307ce568dd5ebe04904bb9a5ba4 data/minecraft/tags/item/villager_picks_up.json
+c20c9c6bfc64f1e5c239fb40e56bd8b8c6fc0873 data/minecraft/tags/item/villager_plantable_seeds.json

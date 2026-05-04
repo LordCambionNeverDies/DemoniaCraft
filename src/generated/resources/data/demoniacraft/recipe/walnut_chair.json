@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": "demoniacraft:walnut_fence",
+    "S": "demoniacraft:walnut_slab"
+  },
+  "pattern": [
+    "S  ",
+    "SSS",
+    "F F"
+  ],
+  "result": {
+    "count": 1,
+    "id": "demoniacraft:walnut_chair"
+  }
+}

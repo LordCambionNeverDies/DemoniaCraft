@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "demoniacraft:block/strawberry_bush_stage1"
+  }
+}

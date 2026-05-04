@@ -1,0 +1,8 @@
+{
+  "remove": [
+    "#demoniacraft:needs_arkadium_tool"
+  ],
+  "values": [
+    "#minecraft:incorrect_for_diamond_tool"
+  ]
+}

@@ -1,0 +1,67 @@
+[04nov2025 09:24:17.076] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 26, --assetsDir, C:\Users\Chris\.gradle\caches\forge_gradle\assets, --gameDir, ., -mixin.config=demoniacraft.mixins.json, --mod, demoniacraft, --all, --output, C:\Users\Chris\Desktop\Demoniacraft\forge-1.21.8-58.1.6-mdk\src\generated\resources, --existing, C:\Users\Chris\Desktop\Demoniacraft\forge-1.21.8-58.1.6-mdk\src\main\resources]
+[04nov2025 09:24:17.087] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.8+9-LTS
+[04nov2025 09:24:17.087] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.8 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[04nov2025 09:24:17.360] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[04nov2025 09:24:17.652] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Chris/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[04nov2025 09:24:20.142] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[04nov2025 09:24:21.020] [main/WARN] [mixin/]: Compatibility level JAVA_21 specified by demoniacraft.mixins.json is higher than the maximum level supported by this version of mixin (JAVA_13).
+[04nov2025 09:24:21.022] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[04nov2025 09:24:21.036] [main/WARN] [mixin/]: Compatibility level JAVA_17 specified by terrablender.mixins.json is higher than the maximum level supported by this version of mixin (JAVA_13).
+[04nov2025 09:24:21.041] [main/WARN] [mixin/]: Compatibility level JAVA_17 specified by terrablender.forge.mixins.json is higher than the maximum level supported by this version of mixin (JAVA_13).
+[04nov2025 09:24:21.045] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\Chris\.gradle\caches\forge_gradle\assets, --assetIndex, 26, --mod, demoniacraft, --all, --output, C:\Users\Chris\Desktop\Demoniacraft\forge-1.21.8-58.1.6-mdk\src\generated\resources, --existing, C:\Users\Chris\Desktop\Demoniacraft\forge-1.21.8-58.1.6-mdk\src\main\resources]
+[04nov2025 09:24:21.099] [main/INFO] [mixin/]: Attempting to load Fernflower decompiler (Threaded mode)
+[04nov2025 09:24:21.102] [main/INFO] [mixin/]: Fernflower could not be loaded, exported classes will not be decompiled. NoClassDefFoundError: org/jetbrains/java/decompiler/main/extern/IResultSaver
+[04nov2025 09:24:21.132] [main/INFO] [mixin/]: Preparing mixins for MixinEnvironment[DEFAULT]
+[04nov2025 09:24:21.133] [main/INFO] [mixin/]: Selecting config demoniacraft.mixins.json
+[04nov2025 09:24:21.137] [main/WARN] [mixin/]: Reference map 'demoniacraft.refmap.json' for demoniacraft.mixins.json could not be read. If this is a development environment you can ignore this message
+[04nov2025 09:24:21.141] [main/INFO] [mixin/]: Selecting config terrablender.mixins.json
+[04nov2025 09:24:21.144] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[04nov2025 09:24:21.144] [main/INFO] [mixin/]: Selecting config terrablender.forge.mixins.json
+[04nov2025 09:24:21.148] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04nov2025 09:24:21.148] [main/INFO] [mixin/]: Preparing demoniacraft.mixins.json (4)
+[04nov2025 09:24:21.149] [main/WARN] [mixin/]: Mixin environment was unable to detect the current side, sided mixins will not be applied
+[04nov2025 09:24:21.150] [main/INFO] [mixin/]: Preparing terrablender.mixins.json (11)
+[04nov2025 09:24:21.354] [main/WARN] [mixin/]: Mixin environment was unable to detect the current side, sided mixins will not be applied
+[04nov2025 09:24:21.356] [main/INFO] [mixin/]: Preparing terrablender.forge.mixins.json (0)
+[04nov2025 09:24:21.356] [main/WARN] [mixin/]: Mixin environment was unable to detect the current side, sided mixins will not be applied
+[04nov2025 09:24:21.467] [main/INFO] [mixin/]: Prepared 10 mixins in 0,332 sec (33,2ms avg) (0ms load, 0ms transform, 0ms plugin)
+[04nov2025 09:24:22.134] [main/INFO] [mixin/]: Mixing MixinBuiltInRegistries from terrablender.mixins.json into net.minecraft.core.registries.BuiltInRegistries
+[04nov2025 09:24:22.142] [main/WARN] [mixin/]: terrablender.mixins.json:MixinBuiltInRegistries: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[04nov2025 09:24:22.157] [main/INFO] [mixin/]: Renaming synthetic method lambda$registerSimple$0(Lnet/minecraft/core/registries/BuiltInRegistries$RegistryBootstrap;Lnet/minecraft/core/Registry;)Ljava/lang/Object; to md1d6b89$terrablender$lambda$registerSimple$0$0 in terrablender.mixins.json:MixinBuiltInRegistries
+[04nov2025 09:24:33.297] [main/INFO] [mixin/]: Mixing MixinBiomeSource from terrablender.mixins.json into net.minecraft.world.level.biome.BiomeSource
+[04nov2025 09:24:33.297] [main/INFO] [mixin/]: Renaming synthetic method lambda$appendDeferredBiomesList$0(Ljava/util/List;)Ljava/util/Set; to md1d6b89$terrablender$lambda$appendDeferredBiomesList$0$0 in terrablender.mixins.json:MixinBiomeSource
+[04nov2025 09:24:33.468] [main/INFO] [mixin/]: Mixing MixinMultiNoiseBiomeSource from terrablender.mixins.json into net.minecraft.world.level.biome.MultiNoiseBiomeSource
+[04nov2025 09:24:33.488] [main/INFO] [mixin/]: Mixing MultiNoiseBiomeSourceAccess from terrablender.mixins.json into net.minecraft.world.level.biome.MultiNoiseBiomeSource
+[04nov2025 09:24:33.582] [main/INFO] [mixin/]: Mixing MixinParameterList from terrablender.mixins.json into net.minecraft.world.level.biome.Climate$ParameterList
+[04nov2025 09:24:33.582] [main/INFO] [mixin/]: Renaming synthetic method lambda$initializeForTerraBlender$1(Lnet/minecraft/core/Registry;Ljava/util/List;Lcom/mojang/datafixers/util/Pair;)V to md1d6b89$terrablender$lambda$initializeForTerraBlender$1$0 in terrablender.mixins.json:MixinParameterList
+[04nov2025 09:24:33.582] [main/INFO] [mixin/]: Renaming synthetic method lambda$initializeForTerraBlender$0(Lterrablender/api/RegionType;JLterrablender/worldgen/noise/InitialLayer;)Lterrablender/worldgen/noise/Area; to md1d6b89$terrablender$lambda$initializeForTerraBlender$0$1 in terrablender.mixins.json:MixinParameterList
+[04nov2025 09:24:33.717] [main/INFO] [mixin/]: Mixing MixinTheEndBiomeSource from terrablender.mixins.json into net.minecraft.world.level.biome.TheEndBiomeSource
+[04nov2025 09:24:33.717] [main/INFO] [mixin/]: Renaming synthetic method lambda$initializeForTerraBlender$0(Lnet/minecraft/resources/ResourceKey;)V to md1d6b89$terrablender$lambda$initializeForTerraBlender$0$0 in terrablender.mixins.json:MixinTheEndBiomeSource
+[04nov2025 09:24:33.788] [main/INFO] [mixin/]: Mixing MixinNoiseBasedChunkGenerator from terrablender.mixins.json into net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator
+[04nov2025 09:24:33.840] [main/INFO] [mixin/]: Mixing MixinChunkGenerator from terrablender.mixins.json into net.minecraft.world.level.chunk.ChunkGenerator
+[04nov2025 09:24:33.875] [main/INFO] [mixin/]: Mixing MixinNoiseGeneratorSettings from terrablender.mixins.json into net.minecraft.world.level.levelgen.NoiseGeneratorSettings
+[04nov2025 09:24:33.877] [main/WARN] [mixin/]: @Shadow target terrablender.mixins.json:MixinNoiseGeneratorSettings::surfaceRule is final but shadow is not decorated with @Final
+[04nov2025 09:24:35.444] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 58.1.6, for MC 1.21.8 with MCP 20250717.105350
+[04nov2025 09:24:35.448] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v58.1.6 Initialized
+[04nov2025 09:24:35.469] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[04nov2025 09:24:36.199] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [demoniacraft]
+[04nov2025 09:24:36.380] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Chris/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.8-58.1.6_mapped_parchment_2025.09.14-1.21.8/forge-1.21.8-58.1.6_mapped_parchment_2025.09.14-1.21.8-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[04nov2025 09:24:36.381] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Chris/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.8-58.1.6_mapped_parchment_2025.09.14-1.21.8/forge-1.21.8-58.1.6_mapped_parchment_2025.09.14-1.21.8-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[04nov2025 09:24:36.718] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[04nov2025 09:24:37.205] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 484 ms
+[04nov2025 09:24:37.208] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Model Definitions
+[04nov2025 09:24:37.729] [main/INFO] [net.minecraft.data.DataGenerator/]: Model Definitions finished after 523 ms
+[04nov2025 09:24:37.731] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Bean Machine Recipes
+[04nov2025 09:24:37.938] [main/INFO] [net.minecraft.data.DataGenerator/]: Bean Machine Recipes finished after 207 ms
+[04nov2025 09:24:37.938] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id demoniacraft
+[04nov2025 09:24:37.975] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id demoniacraft finished after 35 ms
+[04nov2025 09:24:37.975] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : demoniacraft
+[04nov2025 09:24:37.997] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : demoniacraft finished after 20 ms
+[04nov2025 09:24:37.997] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id vanilla
+[04nov2025 09:24:38.021] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id vanilla finished after 24 ms
+[04nov2025 09:24:38.023] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[04nov2025 09:24:38.089] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 67 ms
+[04nov2025 09:24:38.089] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Equipment Assets: demoniacraft
+[04nov2025 09:24:38.095] [main/INFO] [net.minecraft.data.DataGenerator/]: Equipment Assets: demoniacraft finished after 3 ms
+[04nov2025 09:24:38.095] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 1374 ms
+[04nov2025 09:24:38.158] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 576, old count: 0, new count: 577, removed stale: 0, written: 576
